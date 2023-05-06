@@ -70,7 +70,9 @@ The following smart contracts were in scope of the audit:
 The following number of issues were found, categorized by their severity:
 
 - Medium: 1 issues
-- Low: x issues
+- Low: 1 issues
+- Gas: 1 issues
+- Informational: 1 issues
 
 ---
 
@@ -80,8 +82,8 @@ The following number of issues were found, categorized by their severity:
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [M-01] | The contract includes pure methods for approval, transfer, and allowance methods (lines 117-135). `EcetGovernanceToken.sol`            | Medium             |
 | [L-01] | No checks if lockDuration is within the allowd duration                                                                                | Low                |
-| [L-01] | getLockedAmount function iterates through the whole array of locks                                                                     | Low                |
 | [I-01] | NATSPEC missing in the codes                                                                                                           | Informational      |
+| [G-01] | getLockedAmount function iterates through the whole array of locks                                                                     | Gas                |
 
 ## Tools Used
 Manual Review

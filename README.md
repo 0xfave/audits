@@ -4,7 +4,7 @@
 
 Fave is an independent smart contract security researcher. He does his best to contribute to the blockchain ecosystem and its defi protocols by putting time and effort into security research & reviews. Reach out on Twitter [@0xFave](https://twitter.com/0xFave).
 
-He has a proven track record on public auditing platforms such as Code$rena, Sherlock & Codehawks, uncovering more than 100 High/Medium severity vulnerabilities, with >$70,000 in winnings.
+He has a proven track record on public auditing platforms such as Code$rena, Sherlock & Codehawks, uncovering more than 2 High/Medium severity vulnerabilities, with >$70 in winnings.
 
 ## Book us
 
